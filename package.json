@@ -10,8 +10,9 @@
         "name": "Kaz Nishimura",
         "email": "kazssym@linuxfront.com"
     },
-    "files": {
-    },
+    "files": [
+        "server.js"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/kazssym/Xserver-web.git"
